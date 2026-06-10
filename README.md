@@ -22,7 +22,6 @@ It is built as a single HTML artifact running inside Claude.ai Enterprise, using
 | Built by | ESG London team (with Claude) |
 | Used by | ESG London team (internal only) |
 | Supported by | Seyi Khalidson  |
-| Customer-facing | Never |
 | IT registration | Required before team rollout |
 | Security review | Partial (IT notified, information barriers enforced) |
 
